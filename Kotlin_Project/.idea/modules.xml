@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A03_Challenges1/A03_Challenges1.iml" filepath="$PROJECT_DIR$/A03_Challenges1/A03_Challenges1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A03_Declarations/A03_Declarations.iml" filepath="$PROJECT_DIR$/A03_Declarations/A03_Declarations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A03_HelloWorld/A03_HelloWorld.iml" filepath="$PROJECT_DIR$/A03_HelloWorld/A03_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A04_Challenge2/A04_Challenge2.iml" filepath="$PROJECT_DIR$/A04_Challenge2/A04_Challenge2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A04_Datatypes/A04_Datatypes.iml" filepath="$PROJECT_DIR$/A04_Datatypes/A04_Datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A04_NullReferneces/A04_NullReferneces.iml" filepath="$PROJECT_DIR$/A04_NullReferneces/A04_NullReferneces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kotlin_Project.iml" filepath="$PROJECT_DIR$/Kotlin_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hello_World/src/src.iml" filepath="$PROJECT_DIR$/../Hello_World/src/src.iml" />
+    </modules>
+  </component>
+</project>
