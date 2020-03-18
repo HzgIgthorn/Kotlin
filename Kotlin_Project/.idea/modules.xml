@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/A04_Datatypes/A04_Datatypes.iml" filepath="$PROJECT_DIR$/A04_Datatypes/A04_Datatypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/A04_NullReferneces/A04_NullReferneces.iml" filepath="$PROJECT_DIR$/A04_NullReferneces/A04_NullReferneces.iml" />
       <module fileurl="file://$PROJECT_DIR$/A05_AccessModifiers/A05_AccessModifiers.iml" filepath="$PROJECT_DIR$/A05_AccessModifiers/A05_AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A05_Challenge3/A05_Challenge3.iml" filepath="$PROJECT_DIR$/A05_Challenge3/A05_Challenge3.iml" />
       <module fileurl="file://$PROJECT_DIR$/A05_Functions/A05_Functions.iml" filepath="$PROJECT_DIR$/A05_Functions/A05_Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A05_Inheritance/A05_Inheritance.iml" filepath="$PROJECT_DIR$/A05_Inheritance/A05_Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kotlin_Project.iml" filepath="$PROJECT_DIR$/Kotlin_Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Hello_World/src/src.iml" filepath="$PROJECT_DIR$/../Hello_World/src/src.iml" />
     </modules>

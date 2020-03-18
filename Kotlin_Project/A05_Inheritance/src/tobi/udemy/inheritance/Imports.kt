@@ -1,0 +1,2 @@
+package tobi.udemy.inheritance
+
