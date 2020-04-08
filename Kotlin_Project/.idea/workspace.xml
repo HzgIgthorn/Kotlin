@@ -2,20 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bf6d2cf-138f-426f-bccf-40173662fbe0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__11_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__12_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A05_Challenge3/A05_Challenge3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/kotlin/KtBicycle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A05_Inheritance/A05_Inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A05_Inheritance/src/tobi/udemy/inheritance/CompanyCommunications.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A05_Inheritance/src/tobi/udemy/inheritance/Imports.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A05_Inheritance/src/tobi/udemy/inheritance/Printer.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/A05_Inheritance/src/tobi/udemy/other/Other.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__13_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__14_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__15_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__16_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__17_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__18_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__19_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__20_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__21_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__22_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__23_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__24_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__25_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__26_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__27_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__28_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__29_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__30_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__31_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__32_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A06_Challenge4/A06_Challenge4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A06_Challenge4/src/tobi/udemy/challenge/Challenge.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A06_IfExpression/A06_IfExpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A06_IfExpression/src/tobi/udemy/ifexpression/IfExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A06_Loops/A06_Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A06_Loops/src/tobi/udemy/loops/Loops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A06_TryExpression/A06_TryExpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A06_TryExpression/src/tobi/udemy/tryexpression/TryExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A06_WhenExpression/A06_WhenExpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A06_WhenExpression/src/tobi/udemy/whenexpression/WhenExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Challenge5/A07_Challenge5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Challenge5/src/tobi/udemy/challenge/Challenge6.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Collections/A07_Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Collections/src/tobi/udemy/collections/Collections.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Generics/A07_Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Generics/src/tobi/udemy/generics/Generics.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_LambdaExpression/A07_LambdaExpression.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_LambdaExpression/src/tobi/udemy/lambdaexpression/lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Lists/A07_Lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Lists/src/tobi/udemy/lists/Lists.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Maps/A07_Maps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Maps/src/tobi/udemy/maps/Maps.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Sequences/A07_Sequences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Sequences/src/tobi/udemy/sequences/Sequences.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_UseSiteVarianz/A07_UseSiteVarianz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_UseSiteVarianz/src/tobi/udemy/usesite/UseSiteVarianz.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Varianz/A07_Varianz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A07_Varianz/src/tobi/udemy/vatianz/Varianz.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A08_IOBinary/A08_IOBinary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A08_IOBinary/src/tobi/udemy/iobinary/iobinary.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A08_IOKotlin/A08_IOKotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A08_IOKotlin/src/tobi/udemy/iokotlin/iokotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_Challenge6/A09_Challenge6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/Challenge.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/KotlinCode.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/MainJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_JavaFromKotlin/A09_JavaFromKotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_JavaFromKotlin/src/tobi/udemy/javaclasses/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_JavaFromKotlin/src/tobi/udemy/javakotlin/CallJava.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_KotlinFromJava/A09_KotlinFromJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_KotlinFromJava/src/tobi/udemy/kotlinclasses/Car.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A09_KotlinFromJava/src/tobi/udemy/kotlinjava/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tobi/udemy/utils/Utils.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testfile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A05_Functions/tobi/udemy/functions/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/A05_Functions/tobi/udemy/functions/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A05_Functions/tobi/udemy/functions/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/A05_Functions/tobi/udemy/functions/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/A05_Functions/tobi/udemy/functions/FunctionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/A05_Functions/tobi/udemy/functions/FunctionsKt.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,38 +85,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/kotlin/KtBicycle.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A09_JavaFromKotlin/src/tobi/udemy/javakotlin/CallJava.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/javacode/Bicycle.java">
+        <entry file="file://$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="46" selection-start-line="46" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="272">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+              <folding>
+                <element signature="e#467#468#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#713#714#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#778#779#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#1015#1016#0" expanded="true" />
+                <element signature="e#1071#1072#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/javacode/MountainBike.java">
+        <entry file="file://$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/Challenge.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="25" column="96" selection-start-line="25" selection-start-column="96" selection-end-line="25" selection-end-column="96" />
+            <state relative-caret-position="85">
+              <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/javacode/RoadBike.java">
+        <entry file="file://$PROJECT_DIR$/A09_KotlinFromJava/src/tobi/udemy/kotlinclasses/Car.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="103" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="103" />
+            <state>
+              <caret selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/MainJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/KotlinCode.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -73,10 +161,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Object" />
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="FxmlFile" />
+        <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -86,11 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test_Main.kt" />
-        <option value="$PROJECT_DIR$/../Hello_World/src/src/tobi/udemy/helloworld/HelloWorld.kt" />
-        <option value="$PROJECT_DIR$/Declarations/src/tobi/udemy/declarations/Employee.kt" />
-        <option value="$PROJECT_DIR$/Declarations/src/tobi/udemy/declarations/Employee.java" />
-        <option value="$PROJECT_DIR$/Declarations/src/tobi/udemy/declarations/EmployeeJava.java" />
         <option value="$PROJECT_DIR$/Declarations/src/tobi/udemy/declarations/EmployeeKotlin.kt" />
         <option value="$PROJECT_DIR$/Declarations/src/tobi/udemy/declarations/Declarations.kt" />
         <option value="$PROJECT_DIR$/Challenge1/src/tobi/udemy/chalange1/Challenge1.kt" />
@@ -113,6 +197,35 @@
         <option value="$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/javacode/RoadBike.java" />
         <option value="$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/javacode/MountainBike.java" />
         <option value="$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/kotlin/KtBicycle.kt" />
+        <option value="$PROJECT_DIR$/src/tobi/udemy/utils/Utils.kt" />
+        <option value="$PROJECT_DIR$/A06_Loops/src/tobi/udemy/loops/Loops.kt" />
+        <option value="$PROJECT_DIR$/A06_IfExpression/src/tobi/udemy/ifexpression/IfExpression.kt" />
+        <option value="$PROJECT_DIR$/A06_WhenExpression/src/tobi/udemy/whenexpression/WhenExpression.kt" />
+        <option value="$PROJECT_DIR$/A06_TryExpression/src/tobi/udemy/tryexpression/TryExpression.kt" />
+        <option value="$PROJECT_DIR$/A06_Challenge4/src/tobi.udemy.challenge.fxml" />
+        <option value="$PROJECT_DIR$/A07_LambdaExpression/src/tobi/udemy/lambdaexpression/lambda.kt" />
+        <option value="$PROJECT_DIR$/A06_Challenge4/src/tobi/udemy/challenge/Challenge.kt" />
+        <option value="$PROJECT_DIR$/A07_Lists/src/tobi/udemy/lists/Lists.kt" />
+        <option value="$PROJECT_DIR$/A07_Maps/src/tobi/udemy/maps/Maps.kt" />
+        <option value="$PROJECT_DIR$/A07_Collections/src/tobi/udemy/collections/Collections.kt" />
+        <option value="$PROJECT_DIR$/A07_Sequences/src/tobi/udemy/sequences/Sequences.kt" />
+        <option value="$PROJECT_DIR$/A07_Generics/src/tobi/udemy/generics/Generics.java" />
+        <option value="$PROJECT_DIR$/A07_Generics/src/tobi/udemy/generics/Generics.kt" />
+        <option value="$PROJECT_DIR$/A07_UseSiteVarianz/src/tobi/udemy/usesite/UseSiteVarianz.kt" />
+        <option value="$PROJECT_DIR$/A07_Varianz/src/tobi/udemy/vatianz/Varianz.kt" />
+        <option value="$PROJECT_DIR$/A07_Challenge5/src/tobi/udemy/challenge/Challenge6.kt" />
+        <option value="$PROJECT_DIR$/A08_IOKotlin/testfile" />
+        <option value="$PROJECT_DIR$/testfile.bin" />
+        <option value="$PROJECT_DIR$/A08_IOKotlin/src/tobi/udemy/iokotlin/iokotlin.kt" />
+        <option value="$PROJECT_DIR$/A08_IOBinary/src/tobi/udemy/iobinary/iobinary.kt" />
+        <option value="$PROJECT_DIR$/A09_JavaFromKotlin/src/tobi/udemy/javakotlin/CallJava.kt" />
+        <option value="$PROJECT_DIR$/A09_JavaFromKotlin/src/tobi/udemy/javaclasses/Car.java" />
+        <option value="$PROJECT_DIR$/A09_KotlinFromJava/src/tobi/udemy/kotlinjava/Main.java" />
+        <option value="$PROJECT_DIR$/A09_KotlinFromJava/src/tobi/udemy/kotlinclasses/Car.kt" />
+        <option value="$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/Employee.java" />
+        <option value="$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/Challenge.kt" />
+        <option value="$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/KotlinCode.kt" />
+        <option value="$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/MainJava.java" />
       </list>
     </option>
   </component>
@@ -133,6 +246,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,117 +257,19 @@
             </path>
             <path>
               <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A04_Datatypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A04_Datatypes" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A04_NullReferneces" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_AccessModifiers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_AccessModifiers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_AccessModifiers" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="udemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Challenge3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Challenge3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Challenge3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="udemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Challenge3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="javacode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Functions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Functions" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Inheritance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Inheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Inheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="udemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Kotlin_Project" type="462c0819:PsiDirectoryNode" />
-              <item name="A05_Inheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="udemy" type="462c0819:PsiDirectoryNode" />
-              <item name="inheritance" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583419195631" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -260,6 +277,12 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\udemy\KotlinUdemy\git-ws\Kotlin_Project" />
+      <recent name="C:\udemy\KotlinUdemy\git-ws\Kotlin_Project\A08_IOKotlin" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -273,67 +296,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.tobi.udemy.kotlin.KtBicycleKt">
-    <configuration name="tobi.udemy.functions.FunctionsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="A05_Functions" />
+  <component name="RunManager" selected="Application.MainJava">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tobi.udemy.kotlinjava.Main" />
+      <module name="A09_KotlinFromJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tobi.udemy.kotlinjava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tobi.udemy.MainJava" />
+      <module name="A09_Challenge6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tobi.udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tobi.udemy.iobinary.IobinaryKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="A08_IOBinary" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tobi.udemy.functions.FunctionsKt" />
+      <option name="MAIN_CLASS_NAME" value="tobi.udemy.iobinary.IobinaryKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tobi.udemy.inheritance.CompanyCommunicationsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="A05_Inheritance" />
+    <configuration name="tobi.udemy.iokotlin.IokotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="A08_IOKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tobi.udemy.inheritance.CompanyCommunicationsKt" />
+      <option name="MAIN_CLASS_NAME" value="tobi.udemy.iokotlin.IokotlinKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tobi.udemy.inheritance.PrinterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="A05_Inheritance" />
+    <configuration name="tobi.udemy.javakotlin.CallJavaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="A09_JavaFromKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tobi.udemy.inheritance.PrinterKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tobi.udemy.kotlin.KtBicycleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="A05_Challenge3" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tobi.udemy.kotlin.KtBicycleKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tobi.udemy.other.OtherKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="A05_Inheritance" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="tobi.udemy.other.OtherKt" />
+      <option name="MAIN_CLASS_NAME" value="tobi.udemy.javakotlin.CallJavaKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -341,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.tobi.udemy.kotlin.KtBicycleKt" />
-        <item itemvalue="Kotlin.tobi.udemy.other.OtherKt" />
-        <item itemvalue="Kotlin.tobi.udemy.inheritance.CompanyCommunicationsKt" />
-        <item itemvalue="Kotlin.tobi.udemy.inheritance.PrinterKt" />
-        <item itemvalue="Kotlin.tobi.udemy.functions.FunctionsKt" />
+        <item itemvalue="Application.MainJava" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Kotlin.tobi.udemy.javakotlin.CallJavaKt" />
+        <item itemvalue="Kotlin.tobi.udemy.iobinary.IobinaryKt" />
+        <item itemvalue="Kotlin.tobi.udemy.iokotlin.IokotlinKt" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +388,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15458423" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17377399" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -373,8 +396,8 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33137256" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16078432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,7 +405,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.327451" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -395,76 +418,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/io/Console.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1190">
-          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/text/TypeAliases.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Declarations/src/tobi/udemy/declarations/Employee.kt" />
-    <entry file="file://$PROJECT_DIR$/src/Test_Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Hello_World/src/src/tobi/udemy/helloworld/HelloWorld.kt" />
-    <entry file="file://$PROJECT_DIR$/A03_Declarations/src/tobi/udemy/declarations/EmployeeKotlin.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A03_Declarations/src/tobi/udemy/declarations/EmployeeJava.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2975">
-          <caret line="189" column="28" selection-start-line="189" selection-start-column="17" selection-end-line="189" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A03_Challenges1/src/tobi/udemy/chalange1/Challenge1.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/K02_Datatypes/src/tobi/udemy/javacode/CaArray.java" />
-    <entry file="file://$PROJECT_DIR$/A04_Datatypes/src/tobi/udemy/javacode/DummyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/Array.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A04_Datatypes/src/tobi/udemy/datatypes/DataTypes.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
@@ -526,13 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A05_Functions/src/tobi/udemy/functions/Functions.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="91" selection-start-line="57" selection-start-column="91" selection-end-line="57" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/A05_Inheritance/src/tobi/udemy/inheritance/Printer.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -571,24 +517,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/kotlin/KtMountainBike.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/kotlin/KtMountainBike.kt" />
     <entry file="file://$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/javacode/Bicycle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="46" selection-start-line="46" selection-end-line="50" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/javacode/RoadBike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="103" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="103" />
         </state>
       </provider>
     </entry>
@@ -599,10 +532,258 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/javacode/RoadBike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="103" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A05_Functions/src/tobi/udemy/functions/Functions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="91" selection-start-line="57" selection-start-column="91" selection-end-line="57" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/A05_Challenge3/src/tobi/udemy/kotlin/KtBicycle.kt">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tobi/udemy/utils/Utils.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A06_Challenge4/src/tobi.udemy.challenge.fxml" />
+    <entry file="file://$PROJECT_DIR$/A06_TryExpression/src/tobi/udemy/tryexpression/TryExpression.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A06_IfExpression/src/tobi/udemy/ifexpression/IfExpression.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A06_Challenge4/src/tobi/udemy/challenge/Challenge.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="70" column="23" selection-start-line="70" selection-start-column="23" selection-end-line="70" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/kotlin/io/Console.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A06_WhenExpression/src/tobi/udemy/whenexpression/WhenExpression.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A06_Loops/src/tobi/udemy/loops/Loops.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/common/kotlin/util/Tuples.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-302">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07_Sequences/src/Sequences.kt" />
+    <entry file="file://$PROJECT_DIR$/A07_Lists/src/tobi/udemy/lists/Lists.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07_Maps/src/tobi/udemy/maps/Maps.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="56" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07_LambdaExpression/src/tobi/udemy/lambdaexpression/lambda.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07_Generics/src/tobi/udemy/generics/Generics.java" />
+    <entry file="file://$PROJECT_DIR$/A07_Sequences/src/tobi/udemy/sequences/Sequences.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="124" selection-start-line="30" selection-start-column="124" selection-end-line="30" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07_Generics/src/tobi/udemy/generics/Generics.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="107" column="34" selection-start-line="107" selection-start-column="34" selection-end-line="107" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07_Varianz/src/tobi/udemy/vatianz/Varianz.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="71" column="71" selection-start-line="71" selection-start-column="71" selection-end-line="71" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07_UseSiteVarianz/src/tobi/udemy/usesite/UseSiteVarianz.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07_Challenge5/src/tobi/udemy/challenge/Challenge6.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07_Collections/A07_Collections.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfile.bin">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A08_IOKotlin/src/tobi/udemy/iokotlin/iokotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A07_Collections/src/tobi/udemy/collections/Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="91" selection-start-line="79" selection-start-column="50" selection-end-line="79" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A08_IOBinary/src/tobi/udemy/iobinary/iobinary.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="81" selection-start-line="21" selection-start-column="81" selection-end-line="21" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A09_JavaFromKotlin/src/tobi/udemy/javaclasses/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="67" selection-end-line="65" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1319#1320#0" expanded="true" />
+            <element signature="e#1413#1414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A09_KotlinFromJava/src/tobi/udemy/kotlinjava/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A09_JavaFromKotlin/src/tobi/udemy/javakotlin/CallJava.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/Challenge.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="76" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A09_KotlinFromJava/src/tobi/udemy/kotlinclasses/Car.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/KotlinCode.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/A09_Challenge6/src/tobi/udemy/MainJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
         </state>
       </provider>
     </entry>

@@ -12,6 +12,25 @@
       <module fileurl="file://$PROJECT_DIR$/A05_Challenge3/A05_Challenge3.iml" filepath="$PROJECT_DIR$/A05_Challenge3/A05_Challenge3.iml" />
       <module fileurl="file://$PROJECT_DIR$/A05_Functions/A05_Functions.iml" filepath="$PROJECT_DIR$/A05_Functions/A05_Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/A05_Inheritance/A05_Inheritance.iml" filepath="$PROJECT_DIR$/A05_Inheritance/A05_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A06_Challenge4/A06_Challenge4.iml" filepath="$PROJECT_DIR$/A06_Challenge4/A06_Challenge4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A06_IfExpression/A06_IfExpression.iml" filepath="$PROJECT_DIR$/A06_IfExpression/A06_IfExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A06_Loops/A06_Loops.iml" filepath="$PROJECT_DIR$/A06_Loops/A06_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A06_TryExpression/A06_TryExpression.iml" filepath="$PROJECT_DIR$/A06_TryExpression/A06_TryExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A06_WhenExpression/A06_WhenExpression.iml" filepath="$PROJECT_DIR$/A06_WhenExpression/A06_WhenExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07_Challenge5/A07_Challenge5.iml" filepath="$PROJECT_DIR$/A07_Challenge5/A07_Challenge5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07_Collections/A07_Collections.iml" filepath="$PROJECT_DIR$/A07_Collections/A07_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07_Generics/A07_Generics.iml" filepath="$PROJECT_DIR$/A07_Generics/A07_Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07_LambdaExpression/A07_LambdaExpression.iml" filepath="$PROJECT_DIR$/A07_LambdaExpression/A07_LambdaExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07_Lists/A07_Lists.iml" filepath="$PROJECT_DIR$/A07_Lists/A07_Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07_Maps/A07_Maps.iml" filepath="$PROJECT_DIR$/A07_Maps/A07_Maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07_Sequences/A07_Sequences.iml" filepath="$PROJECT_DIR$/A07_Sequences/A07_Sequences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07_UseSiteVarianz/A07_UseSiteVarianz.iml" filepath="$PROJECT_DIR$/A07_UseSiteVarianz/A07_UseSiteVarianz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07_Varianz/A07_Varianz.iml" filepath="$PROJECT_DIR$/A07_Varianz/A07_Varianz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A08_IOBinary/A08_IOBinary.iml" filepath="$PROJECT_DIR$/A08_IOBinary/A08_IOBinary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A08_IOKotlin/A08_IOKotlin.iml" filepath="$PROJECT_DIR$/A08_IOKotlin/A08_IOKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A09_Challenge6/A09_Challenge6.iml" filepath="$PROJECT_DIR$/A09_Challenge6/A09_Challenge6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A09_JavaFromKotlin/A09_JavaFromKotlin.iml" filepath="$PROJECT_DIR$/A09_JavaFromKotlin/A09_JavaFromKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A09_KotlinFromJava/A09_KotlinFromJava.iml" filepath="$PROJECT_DIR$/A09_KotlinFromJava/A09_KotlinFromJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kotlin_Project.iml" filepath="$PROJECT_DIR$/Kotlin_Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Hello_World/src/src.iml" filepath="$PROJECT_DIR$/../Hello_World/src/src.iml" />
     </modules>
